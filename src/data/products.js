@@ -4,7 +4,7 @@ export const products = [
     title: "Смарт часы Pro X",
     price: 7490,
     category: "Гаджеты",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Современные смарт-часы с большим ярким дисплеем, поддержкой уведомлений, шагомером и мониторингом сна. Отлично подойдут для повседневного использования и занятий спортом."
   },
@@ -13,7 +13,7 @@ export const products = [
     title: "Беспроводные наушники AirSound",
     price: 1990,
     category: "Аудио",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Компактные беспроводные наушники с чистым звуком и глубокими басами. Поддерживают Bluetooth 5.0, имеют сенсорное управление и кейс для зарядки."
   },
@@ -22,7 +22,7 @@ export const products = [
     title: "Фитнес-браслет FitLife",
     price: 2990,
     category: "Гаджеты",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Фитнес-браслет для отслеживания активности, пульса и качества сна. Влагозащищённый корпус позволяет использовать его во время тренировок и плавания."
   },
@@ -31,7 +31,7 @@ export const products = [
     title: "Портативная колонка BoomBox Mini",
     price: 4990,
     category: "Аудио",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Мощная портативная колонка с насыщенным звуком и длительным временем работы от аккумулятора. Отличный вариант для дома и поездок."
   },
@@ -40,7 +40,7 @@ export const products = [
     title: "Игровая мышь Thunder X",
     price: 2590,
     category: "Аксессуары",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Игровая мышь с высокой точностью сенсора, настраиваемой подсветкой и эргономичной формой. Подходит как для игр, так и для работы."
   },
@@ -49,7 +49,7 @@ export const products = [
     title: "Механическая клавиатура KeyPro",
     price: 6890,
     category: "Аксессуары",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Механическая клавиатура с тактильными переключателями, прочным корпусом и подсветкой. Идеальный выбор для программистов и геймеров."
   },
@@ -58,7 +58,7 @@ export const products = [
     title: "Внешний аккумулятор PowerMax 20000",
     price: 3490,
     category: "Гаджеты",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Ёмкий внешний аккумулятор на 20000 мАч для зарядки смартфонов, планшетов и других устройств. Поддерживает быструю зарядку."
   },
@@ -67,7 +67,7 @@ export const products = [
     title: "Веб-камера StreamCam HD",
     price: 4290,
     category: "Аксессуары",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "Веб-камера с Full HD разрешением, автофокусом и встроенным микрофоном. Отлично подойдёт для видеозвонков и стриминга."
   },
@@ -76,7 +76,7 @@ export const products = [
     title: "Монитор 24\" UltraView",
     price: 15990,
     category: "Техника",
-    image: "/images/my-image.png",
+    image: "/icon-image.png",
     description:
       "24-дюймовый монитор с IPS-матрицей, высоким разрешением и точной цветопередачей. Подходит для работы, учебы и мультимедиа."
   }
